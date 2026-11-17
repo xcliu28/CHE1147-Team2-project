@@ -1,4 +1,4 @@
-# Predicting Molecular Lipophilicity and Evaluating the 500 Da Threshold
+# Machine Learning-Based Prediction of Molecular Lipophilicity (logD₇.₄): An Evaluation of Predictive Performance Across the 500 Da Molecular Weight Threshold
 
 CHE1147 Final Project — University of Toronto
 
