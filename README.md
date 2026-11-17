@@ -215,9 +215,9 @@ The test set was inspected during project development, including before
 the standardization correction. Results should therefore be interpreted
 as an internal evaluation rather than independent external validation.
 
-The dependency versions record the development environment. Installation
-and full execution in a clean environment should be verified before final
-submission.
+The notebook was successfully executed from top to bottom in a clean
+Conda environment using Python 3.10.21 and the dependencies specified
+in requirements.txt.
 
 ## References
 
